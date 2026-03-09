@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df87c4139869d484cbbc2070be165d46, type: 3}
+  m_Name: PlayerInventory
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - quantity: 3
+    item: {fileID: 11400000, guid: 081cb7bbb6b6b6240b33034f39a523b9, type: 2}
+    itemState: []
+    modifiersData: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 9c2d3236a5acc4f41b6c9ad7eca88457, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: d4ab62d9367ba074cb3ed1862b755d80, type: 2}
+      value: 30
+    modifiersData: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 9c2d3236a5acc4f41b6c9ad7eca88457, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: d4ab62d9367ba074cb3ed1862b755d80, type: 2}
+      value: 30
+    modifiersData: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 9c2d3236a5acc4f41b6c9ad7eca88457, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: d4ab62d9367ba074cb3ed1862b755d80, type: 2}
+      value: 50
+    modifiersData: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 9c2d3236a5acc4f41b6c9ad7eca88457, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: d4ab62d9367ba074cb3ed1862b755d80, type: 2}
+      value: 30
+    modifiersData: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 9c2d3236a5acc4f41b6c9ad7eca88457, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: d4ab62d9367ba074cb3ed1862b755d80, type: 2}
+      value: 30
+    modifiersData: []
+  - quantity: 4
+    item: {fileID: 11400000, guid: f659d50d3e8c9494e923d49c5c610e99, type: 2}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    modifiersData: []
+  initialItems:
+  - quantity: 3
+    item: {fileID: 11400000, guid: 081cb7bbb6b6b6240b33034f39a523b9, type: 2}
+    itemState: []
+    modifiersData: []
+  - quantity: 5
+    item: {fileID: 11400000, guid: 9c2d3236a5acc4f41b6c9ad7eca88457, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: d4ab62d9367ba074cb3ed1862b755d80, type: 2}
+      value: 30
+    modifiersData: []
+  - quantity: 6
+    item: {fileID: 11400000, guid: f659d50d3e8c9494e923d49c5c610e99, type: 2}
+    itemState: []
+    modifiersData:
+    - statModifier: {fileID: 11400000, guid: 7e5a0ed116e03c64d92a3b162915c55e, type: 2}
+      value: 10
+  droppedItems: []
+  <Size>k__BackingField: 67

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5945f81a6eaa241439b444435fe7829f, type: 3}
+  m_Name: "\u041C\u0435\u0447 \u0442\u0443\u043F\u0435\u043D\u044C\u043A\u0438\u0439"
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <ID>k__BackingField: 334
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: "\u041C\u0435\u0447 \u0442\u0443\u043F\u0435\u043D\u044C\u043A\u0438\u0439"
+  <Description>k__BackingField: "\u0420\u0443\u0431\u0438\u0442 \u0437\u043E\u043C\u0431\u0438\u0438\u0438,
+    \u043D\u043E \u043F\u043E\u0445\u0443\u0436\u0435"
+  <ItemImage>k__BackingField: {fileID: -7719358858490347495, guid: 5c08385f6a2ba344fa928ed2f23fc425, type: 3}
+  <DefaultParametersList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: d4ab62d9367ba074cb3ed1862b755d80, type: 2}
+    value: 100
+  <DefaultModifiersData>k__BackingField: []
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: b50d9194f3b1fb142ba55d628477c04e, type: 3}
+  canDrop: 0
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: 7276d11ce81604e43925d7177637f112, type: 2}
+    value: 2
