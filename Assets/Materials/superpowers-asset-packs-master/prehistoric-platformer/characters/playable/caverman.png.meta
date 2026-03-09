@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: c2f4557a686aa0b42bfae8850d4afd02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8505408481507216282
+    second: caverman_0
+  - first:
+      213: -466111301727457907
+    second: caverman_1
+  - first:
+      213: 4605784698862707041
+    second: caverman_2
+  - first:
+      213: -5639602422473122069
+    second: caverman_3
+  - first:
+      213: 8732814861998114953
+    second: caverman_4
+  - first:
+      213: 470484358182785623
+    second: caverman_5
+  - first:
+      213: -8079557224686752966
+    second: caverman_6
+  - first:
+      213: 756604848438728362
+    second: caverman_7
+  - first:
+      213: -4618087678933754770
+    second: caverman_8
+  - first:
+      213: 4661674643440834668
+    second: caverman_9
+  - first:
+      213: 3258168099425366025
+    second: caverman_10
+  - first:
+      213: 4887868557383438637
+    second: caverman_11
+  - first:
+      213: -6447874435390777672
+    second: caverman_12
+  - first:
+      213: 4632292977940320328
+    second: caverman_13
+  - first:
+      213: 2218318890569463595
+    second: caverman_14
+  - first:
+      213: 1182661404603391422
+    second: caverman_15
+  - first:
+      213: 9040584257073308868
+    second: caverman_16
+  - first:
+      213: 1474113873726275936
+    second: caverman_17
+  - first:
+      213: 6906638701677046916
+    second: caverman_18
+  - first:
+      213: -3187703899463880152
+    second: caverman_19
+  - first:
+      213: 4711694868364876184
+    second: caverman_20
+  - first:
+      213: 6920622537737924610
+    second: caverman_21
+  - first:
+      213: -6475510354440695403
+    second: caverman_22
+  - first:
+      213: 6736799067314641087
+    second: caverman_23
+  - first:
+      213: 5552042568658401586
+    second: caverman_24
+  - first:
+      213: 2829645882208209993
+    second: caverman_25
+  - first:
+      213: -576655442285043384
+    second: caverman_26
+  - first:
+      213: 7869137637262679121
+    second: caverman_27
+  - first:
+      213: 8600134819379199924
+    second: caverman_28
+  - first:
+      213: 1116877239890916435
+    second: caverman_29
+  - first:
+      213: 4464599212848856951
+    second: caverman_30
+  - first:
+      213: 6632740283329650432
+    second: caverman_31
+  - first:
+      213: -5863261092903783676
+    second: caverman_32
+  - first:
+      213: 8573040518606870122
+    second: caverman_33
+  - first:
+      213: -8054631612440836948
+    second: caverman_34
+  - first:
+      213: 8156480209613992457
+    second: caverman_35
+  - first:
+      213: 8077920407291115095
+    second: caverman_36
+  - first:
+      213: -123003822617024280
+    second: caverman_37
+  - first:
+      213: 8261670659704728416
+    second: caverman_38
+  - first:
+      213: -8658144995847759999
+    second: caverman_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caverman_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664fa26bc08b6f980800000000000000
+      internalID: -8505408481507216282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 431
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6dba9d3a0889f0800000000000000
+      internalID: -466111301727457907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 431
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16124a7f7c80bef30800000000000000
+      internalID: 4605784698862707041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 431
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee9e060a7b1cb1b0800000000000000
+      internalID: -5639602422473122069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 431
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98846aa39d0313970800000000000000
+      internalID: 8732814861998114953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 431
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752dcd1f70f778600800000000000000
+      internalID: 470484358182785623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bea10f285afdf80800000000000000
+      internalID: -8079557224686752966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 361
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6578ad910008a00800000000000000
+      internalID: 756604848438728362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 364
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c9b8349b149efb0800000000000000
+      internalID: -4618087678933754770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 363
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c689cbcb36891b040800000000000000
+      internalID: 4661674643440834668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 360
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90032c8bf96573d20800000000000000
+      internalID: 3258168099425366025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 360
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2114af4e8235d340800000000000000
+      internalID: 4887868557383438637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 289
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d5320d5c8486a0800000000000000
+      internalID: -6447874435390777672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 288
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405ba5abe5394040800000000000000
+      internalID: 4632292977940320328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 291
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277eee174d09ce10800000000000000
+      internalID: 2218318890569463595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 291
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd13fe0848a96010800000000000000
+      internalID: 1182661404603391422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 291
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e7d49b7b967d70800000000000000
+      internalID: 9040584257073308868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 293
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0610ee902ca157410800000000000000
+      internalID: 1474113873726275936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cec656e4f49df50800000000000000
+      internalID: 6906638701677046916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 222
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f35f413003c3d0800000000000000
+      internalID: -3187703899463880152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 218
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995be6e48d436140800000000000000
+      internalID: 4711694868364876184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 218
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2007e62f78dfa0060800000000000000
+      internalID: 6920622537737924610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 218
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591d23034ad5226a0800000000000000
+      internalID: -6475510354440695403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 218
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d8720f0bed7d50800000000000000
+      internalID: 6736799067314641087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 147
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2393bbadc41dc0d40800000000000000
+      internalID: 5552042568658401586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cca2110fbe44720800000000000000
+      internalID: 2829645882208209993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 147
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841edc43eee4ff7f0800000000000000
+      internalID: -576655442285043384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 147
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd2b51dfac43d60800000000000000
+      internalID: 7869137637262679121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 147
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfb0918d01d95770800000000000000
+      internalID: 8600134819379199924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 146
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ba65aee1ff7f00800000000000000
+      internalID: 1116877239890916435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 76
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f3852645175fd30800000000000000
+      internalID: 4464599212848856951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 78
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f994b552a3c0c50800000000000000
+      internalID: 6632740283329650432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403f914d91381aea0800000000000000
+      internalID: -5863261092903783676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 85
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66d7940eee89f670800000000000000
+      internalID: 8573040518606870122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_34
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 83
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405d74933383090800000000000000
+      internalID: -8054631612440836948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 76
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902bb872983a13170800000000000000
+      internalID: 8156480209613992457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7563770dfc98a1070800000000000000
+      internalID: 8077920407291115095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 6
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8a5eecca00b4ef0800000000000000
+      internalID: -123003822617024280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba7fa51b957a270800000000000000
+      internalID: 8261670659704728416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caverman_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 6
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1871ba4cff618d780800000000000000
+      internalID: -8658144995847759999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      caverman_0: -8505408481507216282
+      caverman_1: -466111301727457907
+      caverman_10: 3258168099425366025
+      caverman_11: 4887868557383438637
+      caverman_12: -6447874435390777672
+      caverman_13: 4632292977940320328
+      caverman_14: 2218318890569463595
+      caverman_15: 1182661404603391422
+      caverman_16: 9040584257073308868
+      caverman_17: 1474113873726275936
+      caverman_18: 6906638701677046916
+      caverman_19: -3187703899463880152
+      caverman_2: 4605784698862707041
+      caverman_20: 4711694868364876184
+      caverman_21: 6920622537737924610
+      caverman_22: -6475510354440695403
+      caverman_23: 6736799067314641087
+      caverman_24: 5552042568658401586
+      caverman_25: 2829645882208209993
+      caverman_26: -576655442285043384
+      caverman_27: 7869137637262679121
+      caverman_28: 8600134819379199924
+      caverman_29: 1116877239890916435
+      caverman_3: -5639602422473122069
+      caverman_30: 4464599212848856951
+      caverman_31: 6632740283329650432
+      caverman_32: -5863261092903783676
+      caverman_33: 8573040518606870122
+      caverman_34: -8054631612440836948
+      caverman_35: 8156480209613992457
+      caverman_36: 8077920407291115095
+      caverman_37: -123003822617024280
+      caverman_38: 8261670659704728416
+      caverman_39: -8658144995847759999
+      caverman_4: 8732814861998114953
+      caverman_5: 470484358182785623
+      caverman_6: -8079557224686752966
+      caverman_7: 756604848438728362
+      caverman_8: -4618087678933754770
+      caverman_9: 4661674643440834668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

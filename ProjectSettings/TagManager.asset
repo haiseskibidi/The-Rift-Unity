@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Wall
+  - BigStump
+  - Enemy
+  - Sound
+  - Ground
+  - EnableVignette
+  - DisableVignette
+  - InventoryItem
+  - SpawnPoint
+  - Item
+  - LeftEdge
+  - RightEdge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PostProcessing
+  - Enemy
+  - Ground
+  - Background
+  - PlayerDead
+  - EnemyDead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2740134113
+    locked: 0
+  - name: Foreground
+    uniqueID: 2545268971
+    locked: 0
+  - name: Enemies
+    uniqueID: 2337475921
+    locked: 0
+  - name: Player
+    uniqueID: 555718555
+    locked: 0
+  - name: Green
+    uniqueID: 475522491
+    locked: 0
+  - name: Ground
+    uniqueID: 192179965
+    locked: 0
+  - name: UI
+    uniqueID: 2608218629
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: ef5ab3ae3f66dc3498b2a4fdcef87f49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 926782610258133421
+    second: village-Photoroom_0
+  - first:
+      213: -3771972584201160293
+    second: village-Photoroom_1
+  - first:
+      213: 5320416638577965723
+    second: village-Photoroom_2
+  - first:
+      213: -7922873376926619395
+    second: village-Photoroom_3
+  - first:
+      213: 2133413424009827378
+    second: village-Photoroom_4
+  - first:
+      213: -7226545690841052663
+    second: village-Photoroom_5
+  - first:
+      213: -2327926569292956662
+    second: village-Photoroom_6
+  - first:
+      213: -6619060630508510006
+    second: village-Photoroom_7
+  - first:
+      213: -2625421109666085140
+    second: village-Photoroom_8
+  - first:
+      213: -6547424798039426423
+    second: village-Photoroom_9
+  - first:
+      213: 160762166519378575
+    second: village-Photoroom_10
+  - first:
+      213: 6665005238055771242
+    second: village-Photoroom_11
+  - first:
+      213: -9159701136004750548
+    second: village-Photoroom_12
+  - first:
+      213: 5157954217196153670
+    second: village-Photoroom_13
+  - first:
+      213: 6581335852814796749
+    second: village-Photoroom_14
+  - first:
+      213: -8777850446500542600
+    second: village-Photoroom_15
+  - first:
+      213: 5925285826690234611
+    second: village-Photoroom_16
+  - first:
+      213: -8838285680903077986
+    second: village-Photoroom_17
+  - first:
+      213: 1781937329667397897
+    second: village-Photoroom_18
+  - first:
+      213: -2128812978994023387
+    second: village-Photoroom_19
+  - first:
+      213: 3210985591995891751
+    second: village-Photoroom_20
+  - first:
+      213: 198072320166158463
+    second: village-Photoroom_21
+  - first:
+      213: -2536857429970127264
+    second: village-Photoroom_22
+  - first:
+      213: 4744117616519974013
+    second: village-Photoroom_23
+  - first:
+      213: -7424363403183462517
+    second: village-Photoroom_24
+  - first:
+      213: 7715420249975473371
+    second: village-Photoroom_25
+  - first:
+      213: -3029065066308387900
+    second: village-Photoroom_26
+  - first:
+      213: 6093224286022316010
+    second: village-Photoroom_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 887
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1027cafd79cdc00800000000000000
+      internalID: 926782610258133421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 871
+        width: 116
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997d206be247abc0800000000000000
+      internalID: -3771972584201160293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 910
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a74877ebae5d940800000000000000
+      internalID: 5320416638577965723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 862
+        width: 116
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8a3ef04ac4c0290800000000000000
+      internalID: -7922873376926619395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 910
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d721b4386b9d10800000000000000
+      internalID: 2133413424009827378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 894
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a0a486bf626bb90800000000000000
+      internalID: -7226545690841052663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 878
+        width: 115
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c791e7e1b81bfd0800000000000000
+      internalID: -2327926569292956662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 910
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac464c30d6f5424a0800000000000000
+      internalID: -6619060630508510006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 878
+        width: 115
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce68a8c2961a09bd0800000000000000
+      internalID: -2625421109666085140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 910
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ab64ff5dfd225a0800000000000000
+      internalID: -6547424798039426423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 830
+        width: 100
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b5b4b6542b3200800000000000000
+      internalID: 160762166519378575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 846
+        width: 99
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c9e6883fade7c50800000000000000
+      internalID: 6665005238055771242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 798
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23e1b3d85432e080800000000000000
+      internalID: -9159701136004750548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 790
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b64b3580cb49740800000000000000
+      internalID: 5157954217196153670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 670
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc78196b61a955b50800000000000000
+      internalID: 6581335852814796749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 670
+        width: 180
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c4d4a68fce2680800000000000000
+      internalID: -8777850446500542600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 702
+        width: 100
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8378cd018da3250800000000000000
+      internalID: 5925285826690234611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 670
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fb95e100a185580800000000000000
+      internalID: -8838285680903077986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 670
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90955da6f86bab810800000000000000
+      internalID: 1781937329667397897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 686
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f1d1efdfe472e0800000000000000
+      internalID: -2128812978994023387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 670
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72000d52266bf8c20800000000000000
+      internalID: 3210985591995891751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 510
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70675bc9b1bfb200800000000000000
+      internalID: 198072320166158463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 398
+        width: 100
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f1d8bb954bccd0800000000000000
+      internalID: -2536857429970127264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 462
+        width: 132
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c885936dd76d140800000000000000
+      internalID: 4744117616519974013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 614
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e6dd12dc57f890800000000000000
+      internalID: -7424363403183462517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 614
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4c4acd6dda21b60800000000000000
+      internalID: 7715420249975473371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 606
+        width: 180
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb421fe5996f5d0800000000000000
+      internalID: -3029065066308387900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 1004
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefa421743b7f8450800000000000000
+      internalID: 6093224286022316010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      village-Photoroom_0: 926782610258133421
+      village-Photoroom_1: -3771972584201160293
+      village-Photoroom_10: 160762166519378575
+      village-Photoroom_11: 6665005238055771242
+      village-Photoroom_12: -9159701136004750548
+      village-Photoroom_13: 5157954217196153670
+      village-Photoroom_14: 6581335852814796749
+      village-Photoroom_15: -8777850446500542600
+      village-Photoroom_16: 5925285826690234611
+      village-Photoroom_17: -8838285680903077986
+      village-Photoroom_18: 1781937329667397897
+      village-Photoroom_19: -2128812978994023387
+      village-Photoroom_2: 5320416638577965723
+      village-Photoroom_20: 3210985591995891751
+      village-Photoroom_21: 198072320166158463
+      village-Photoroom_22: -2536857429970127264
+      village-Photoroom_23: 4744117616519974013
+      village-Photoroom_24: -7424363403183462517
+      village-Photoroom_25: 7715420249975473371
+      village-Photoroom_26: -3029065066308387900
+      village-Photoroom_27: 6093224286022316010
+      village-Photoroom_3: -7922873376926619395
+      village-Photoroom_4: 2133413424009827378
+      village-Photoroom_5: -7226545690841052663
+      village-Photoroom_6: -2327926569292956662
+      village-Photoroom_7: -6619060630508510006
+      village-Photoroom_8: -2625421109666085140
+      village-Photoroom_9: -6547424798039426423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

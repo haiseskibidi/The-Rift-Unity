@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: f6fb0cb1deb4e4a4885f5cb82ed35e9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 965285840444891373
+    second: monster-drops_0
+  - first:
+      213: 1304774446104554334
+    second: monster-drops_1
+  - first:
+      213: 438815767492060629
+    second: monster-drops_2
+  - first:
+      213: -7080439868803798410
+    second: monster-drops_3
+  - first:
+      213: 3445841031620798290
+    second: monster-drops_4
+  - first:
+      213: 2029973284209255474
+    second: monster-drops_5
+  - first:
+      213: -901233320391910992
+    second: monster-drops_6
+  - first:
+      213: -1610458554640356608
+    second: monster-drops_7
+  - first:
+      213: 2383364404455236488
+    second: monster-drops_8
+  - first:
+      213: 7770792290051326011
+    second: monster-drops_9
+  - first:
+      213: -1717861439546617598
+    second: monster-drops_10
+  - first:
+      213: 6773400789658682519
+    second: monster-drops_11
+  - first:
+      213: -1971505041035656592
+    second: monster-drops_12
+  - first:
+      213: -3511514345658378685
+    second: monster-drops_13
+  - first:
+      213: 994375622301470252
+    second: monster-drops_14
+  - first:
+      213: -4200297191768800433
+    second: monster-drops_15
+  - first:
+      213: 3627463092198769151
+    second: monster-drops_16
+  - first:
+      213: 3033955201274603189
+    second: monster-drops_17
+  - first:
+      213: 5631242501172793899
+    second: monster-drops_18
+  - first:
+      213: -2403750779350799766
+    second: monster-drops_19
+  - first:
+      213: 217138274008289143
+    second: monster-drops_20
+  - first:
+      213: -6852787772700513016
+    second: monster-drops_21
+  - first:
+      213: -4159964866014068066
+    second: monster-drops_22
+  - first:
+      213: -8006196197636697866
+    second: monster-drops_23
+  - first:
+      213: -238914841180325196
+    second: monster-drops_24
+  - first:
+      213: -2424075827386456921
+    second: monster-drops_25
+  - first:
+      213: 8495598685938521602
+    second: monster-drops_26
+  - first:
+      213: 6337443591307359444
+    second: monster-drops_27
+  - first:
+      213: -1329071345974608786
+    second: monster-drops_28
+  - first:
+      213: 8426285290496691689
+    second: monster-drops_29
+  - first:
+      213: 4649445677495482049
+    second: monster-drops_30
+  - first:
+      213: -7345931688364832278
+    second: monster-drops_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-drops_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ae6a8b52656d00800000000000000
+      internalID: 965285840444891373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 65
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba11c127d7b1210800000000000000
+      internalID: 1304774446104554334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d564379d9cf61600800000000000000
+      internalID: 438815767492060629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aaf6ef3793dbd90800000000000000
+      internalID: -7080439868803798410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 61
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2572932592612df20800000000000000
+      internalID: 3445841031620798290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23463dc52f9eb2c10800000000000000
+      internalID: 2029973284209255474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95b4ee11d2e73f0800000000000000
+      internalID: -901233320391910992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b2c252a7086a9e0800000000000000
+      internalID: -1610458554640356608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8836dd95c49631120800000000000000
+      internalID: 2383364404455236488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 54
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308ad79a6667db60800000000000000
+      internalID: 7770792290051326011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 58
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2019b725f1ee828e0800000000000000
+      internalID: -1717861439546617598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 60
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c4f49124fffd50800000000000000
+      internalID: 6773400789658682519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728d245c9ec3a4e0800000000000000
+      internalID: -1971505041035656592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 60
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3461853be48944fc0800000000000000
+      internalID: -3511514345658378685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 60
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e469c2c5bbccd00800000000000000
+      internalID: 994375622301470252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 57
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43cc8d45fb85b5c0800000000000000
+      internalID: -4200297191768800433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff109569676575230800000000000000
+      internalID: 3627463092198769151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 22
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6eb645e26ca1a20800000000000000
+      internalID: 3033955201274603189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 24
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b229c7e1831362e40800000000000000
+      internalID: 5631242501172793899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 20
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a2a3cd66924aed0800000000000000
+      internalID: -2403750779350799766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 18
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fc7691c1e630300800000000000000
+      internalID: 217138274008289143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 17
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dab0f04d106e0a0800000000000000
+      internalID: -6852787772700513016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 23
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92402baef5d446c0800000000000000
+      internalID: -4159964866014068066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 24
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f018c51af644e090800000000000000
+      internalID: -8006196197636697866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab0efb7343facf0800000000000000
+      internalID: -238914841180325196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 11
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e408d0e3fb5ed0800000000000000
+      internalID: -2424075827386456921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 15
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20614a54efd66e570800000000000000
+      internalID: 8495598685938521602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 17
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d473fb7e5f13f750800000000000000
+      internalID: 6337443591307359444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 22
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c780e07a03e8de0800000000000000
+      internalID: -1329071345974608786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 17
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed872cc3dd20f470800000000000000
+      internalID: 8426285290496691689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 17
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f799b536268040800000000000000
+      internalID: 4649445677495482049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-drops_31
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 14
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98ab2cc020e0a90800000000000000
+      internalID: -7345931688364832278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      monster-drops_0: 965285840444891373
+      monster-drops_1: 1304774446104554334
+      monster-drops_10: -1717861439546617598
+      monster-drops_11: 6773400789658682519
+      monster-drops_12: -1971505041035656592
+      monster-drops_13: -3511514345658378685
+      monster-drops_14: 994375622301470252
+      monster-drops_15: -4200297191768800433
+      monster-drops_16: 3627463092198769151
+      monster-drops_17: 3033955201274603189
+      monster-drops_18: 5631242501172793899
+      monster-drops_19: -2403750779350799766
+      monster-drops_2: 438815767492060629
+      monster-drops_20: 217138274008289143
+      monster-drops_21: -6852787772700513016
+      monster-drops_22: -4159964866014068066
+      monster-drops_23: -8006196197636697866
+      monster-drops_24: -238914841180325196
+      monster-drops_25: -2424075827386456921
+      monster-drops_26: 8495598685938521602
+      monster-drops_27: 6337443591307359444
+      monster-drops_28: -1329071345974608786
+      monster-drops_29: 8426285290496691689
+      monster-drops_3: -7080439868803798410
+      monster-drops_30: 4649445677495482049
+      monster-drops_31: -7345931688364832278
+      monster-drops_4: 3445841031620798290
+      monster-drops_5: 2029973284209255474
+      monster-drops_6: -901233320391910992
+      monster-drops_7: -1610458554640356608
+      monster-drops_8: 2383364404455236488
+      monster-drops_9: 7770792290051326011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

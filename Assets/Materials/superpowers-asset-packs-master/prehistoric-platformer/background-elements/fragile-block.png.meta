@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 7182a4d61f94df647916826cc7d9dd14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3913801292831555909
+    second: fragile-block_0
+  - first:
+      213: 8316457829901663879
+    second: fragile-block_1
+  - first:
+      213: -3751294114543968348
+    second: fragile-block_2
+  - first:
+      213: -7155824926095274969
+    second: fragile-block_3
+  - first:
+      213: 1459031137052116159
+    second: fragile-block_4
+  - first:
+      213: 571174418625186751
+    second: fragile-block_5
+  - first:
+      213: 8721493323668095036
+    second: fragile-block_6
+  - first:
+      213: 9136405691805356025
+    second: fragile-block_7
+  - first:
+      213: 8040218350549862644
+    second: fragile-block_8
+  - first:
+      213: 662126831800550723
+    second: fragile-block_9
+  - first:
+      213: -3030520094755161066
+    second: fragile-block_10
+  - first:
+      213: 7737949257268327394
+    second: fragile-block_11
+  - first:
+      213: 6434441223704011197
+    second: fragile-block_12
+  - first:
+      213: 8148321257461908171
+    second: fragile-block_13
+  - first:
+      213: 7824548597704867126
+    second: fragile-block_14
+  - first:
+      213: 2555890680544617850
+    second: fragile-block_15
+  - first:
+      213: -5619947812147139500
+    second: fragile-block_16
+  - first:
+      213: 938283219518820338
+    second: fragile-block_17
+  - first:
+      213: 3373064210847325056
+    second: fragile-block_18
+  - first:
+      213: -8863623049784083521
+    second: fragile-block_19
+  - first:
+      213: 5169229939132549087
+    second: fragile-block_20
+  - first:
+      213: -4686177748435333590
+    second: fragile-block_21
+  - first:
+      213: 8713344240680246975
+    second: fragile-block_22
+  - first:
+      213: 933584639547277288
+    second: fragile-block_23
+  - first:
+      213: 2904027939279854343
+    second: fragile-block_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fragile-block_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7f4bd5726fa9c0800000000000000
+      internalID: -3913801292831555909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78efdc4755ef96370800000000000000
+      internalID: 8316457829901663879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 10
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afd796c0e9b0fbc0800000000000000
+      internalID: -3751294114543968348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8435942761bc90800000000000000
+      internalID: -7155824926095274969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c930c6158f3410800000000000000
+      internalID: 1459031137052116159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbc1f68b183de700800000000000000
+      internalID: 571174418625186751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 18
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308d2c28f7f80970800000000000000
+      internalID: 8721493323668095036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4ae7e1980bce70800000000000000
+      internalID: 9136405691805356025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 22
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f80a1dadf7949f60800000000000000
+      internalID: 8040218350549862644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3450abd68d8503900800000000000000
+      internalID: 662126831800550723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 14
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c7f6bb70e61f5d0800000000000000
+      internalID: -3030520094755161066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 16
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f9712ad7b26b60800000000000000
+      internalID: 7737949257268327394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 21
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e10ba33abb4950800000000000000
+      internalID: 6434441223704011197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc208c21307a41170800000000000000
+      internalID: 8148321257461908171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dbafd4e71669c60800000000000000
+      internalID: 7824548597704867126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75e7924809587320800000000000000
+      internalID: 2555890680544617850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c6cb89d3fe102b0800000000000000
+      internalID: -5619947812147139500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff012eed93750d00800000000000000
+      internalID: 938283219518820338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b532c47088fce20800000000000000
+      internalID: 3373064210847325056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbb7a63cc51ef480800000000000000
+      internalID: -8863623049784083521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd74f4ced3bccb740800000000000000
+      internalID: 5169229939132549087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 8
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e0c2e8a2a57feb0800000000000000
+      internalID: -4686177748435333590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe117feb640ce870800000000000000
+      internalID: 8713344240680246975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eff9f78842c4fc00800000000000000
+      internalID: 933584639547277288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragile-block_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd59a460e2d4820800000000000000
+      internalID: 2904027939279854343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fragile-block_0: -3913801292831555909
+      fragile-block_1: 8316457829901663879
+      fragile-block_10: -3030520094755161066
+      fragile-block_11: 7737949257268327394
+      fragile-block_12: 6434441223704011197
+      fragile-block_13: 8148321257461908171
+      fragile-block_14: 7824548597704867126
+      fragile-block_15: 2555890680544617850
+      fragile-block_16: -5619947812147139500
+      fragile-block_17: 938283219518820338
+      fragile-block_18: 3373064210847325056
+      fragile-block_19: -8863623049784083521
+      fragile-block_2: -3751294114543968348
+      fragile-block_20: 5169229939132549087
+      fragile-block_21: -4686177748435333590
+      fragile-block_22: 8713344240680246975
+      fragile-block_23: 933584639547277288
+      fragile-block_24: 2904027939279854343
+      fragile-block_3: -7155824926095274969
+      fragile-block_4: 1459031137052116159
+      fragile-block_5: 571174418625186751
+      fragile-block_6: 8721493323668095036
+      fragile-block_7: 9136405691805356025
+      fragile-block_8: 8040218350549862644
+      fragile-block_9: 662126831800550723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
